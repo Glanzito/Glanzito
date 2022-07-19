@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Glan Manyike</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
-<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Girl in a jacket" >
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <div id="badges">
+    <a href="https://www.linkedin.com/in/glan-manyike-357050211/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://www.instagram.com/nikhilagarwal_dna/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  
+</div>
 - 🔭 I’m currently working on [Blood Donor System](http://blooddoners.rf.gd/)
 
 - 🌱 I’m currently learning **Software Development**
