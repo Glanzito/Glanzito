@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on [newworld](https://github.com/Glanzito/newworld)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Glanzito](https://github.com/Glanzito)
+- 👨‍💻 My portfolio [https://github.com/Glanzito](https://github.com/Glanzito)
 
 - 💬 Ask me about **Web Development**
 
