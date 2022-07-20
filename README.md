@@ -16,13 +16,13 @@
   
 </div>
 
-- 🔭 I’m currently working on [Blood Donor System](http://blooddoners.rf.gd/)
+- 👨‍💻 My portfolio [https://github.com/Glanzito](https://github.com/Glanzito)
 
 - 🌱 I’m currently learning **Software Development**
 
 - 👯 I’m looking to collaborate on [newworld](https://github.com/Glanzito/newworld)
 
-- 👨‍💻 My portfolio [https://github.com/Glanzito](https://github.com/Glanzito)
+- 🔭 I’m currently working on [Blood Donor System](http://blooddoners.rf.gd/)
 
 - 💬 Ask me about **Web Development**
 
