@@ -12,7 +12,9 @@
     <a href="https://www.instagram.com/nikhilagarwal_dna/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    
   </div>
+   <img src="https://komarev.com/ghpvc/?username=glanzito&style=flat-square&color=blue" alt=""/>
   
 </div>
 
